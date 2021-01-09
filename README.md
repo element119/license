@@ -1,5 +1,7 @@
 # End-User License Agreement (EULA) of element119
+
 This End-User License Agreement ("EULA") is a legal agreement between you and element119.
+The latest version of the license can always be found at https://github.com/element119/license
 
 This EULA agreement governs your acquisition and use of our element119 software ("Software") directly from element119
 or indirectly through a element119 authorized reseller or distributor (a "Reseller").
@@ -22,17 +24,17 @@ services, and support services for the Software, unless other terms accompany th
 terms apply.
 
 ## License Grant
-element119 hereby grants you a personal, non-transferable, non-exclusive licence to use the element119 software on your
+
+element119 hereby grants you a non-transferable, non-exclusive licence to use the element119 software on your
 devices in accordance with the terms of this EULA agreement.
 
-You are permitted to load the element119 software (for example a PC, laptop, mobile or tablet) under your control.
-You are responsible for ensuring your device meets the minimum requirements of the element119 software.
+You ARE permitted to:
+- Load the element119 software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for
+ensuring your device meets the minimum requirements of the element119 software
 
-You are not permitted to:
-- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole
-or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble
-or reverse engineer the Software or attempt to do any such things
+- Customise the Software to suit individual purposes
 
+You ARE NOT permitted to:
 - Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
 
 - Allow any third party to use the Software on behalf of or for the benefit of any third party
@@ -50,6 +52,7 @@ nature in the Software, including any modifications made thereto) are and shall 
 element119 reserves the right to grant licences to use the Software to third parties.
 
 ## Termination
+
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated.
 You may terminate it at any time upon written notice to element119.
 
@@ -58,6 +61,13 @@ Upon such termination, the licenses granted by this EULA agreement will immediat
 access and use of the Software. The provisions that by their nature continue and survive will survive any termination
 of this EULA agreement.
 
+## Limitation of Liability
+
+In no event shall element119 or any of it's employees be liable for any damages (including, but not limited to, lost
+earnings, service interruption, data loss, or breach) incurred by the use of the Software. In no event will element119
+be liable for prosecution arising from use of the Software against law or for any illegal use.
+
 ## Governing Law
+
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by
 and construed in accordance with the laws of the United Kingdom.
